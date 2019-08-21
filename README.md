@@ -4,9 +4,9 @@ Requirements Log in to your docker account
 commands
 This will pull the image where the script is present
 docker pull yaths/imdb_test:docker
-get the image id
+# get the image id
 docker images
-run the image as a container
+# run the image as a container
 docker run -ti -d [imageid]
 Get the container id
 docker ps
