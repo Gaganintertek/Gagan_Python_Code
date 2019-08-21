@@ -10,7 +10,7 @@
  
 This will pull the image where the script is present
 
-docker pull yaths/imdb_test:docker
+docker pull gaganintertek/pytest:firsttry
 
 # get the image id
 
