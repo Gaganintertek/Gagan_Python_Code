@@ -1,7 +1,7 @@
-Movie_Rating_Task
-This utility will let you know the rating of movies.
-Requirements Log in to your docker account
-commands
+ Movie_Rating_Task
+ This utility will let you know the rating of movies.
+ Requirements Log in to your docker account
+ commands
 This will pull the image where the script is present
 docker pull yaths/imdb_test:docker
 # get the image id
