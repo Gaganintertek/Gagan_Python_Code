@@ -2,9 +2,11 @@
  
  This utility will let you know the rating of movies.
  
- Requirements Log in to your docker account
+ #Requirements 
  
- commands
+ Log in to your docker account
+ 
+ # commands
  
 This will pull the image where the script is present
 
